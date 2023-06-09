@@ -1,0 +1,14 @@
+footer img
+{
+    width:64px;
+    padding:5px;
+}
+.logo 
+{
+    width:150px;
+}
+
+table, table td , table th, table tr
+{
+    border:1px solid black;
+}
